@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,470n,C_0805_2012Metric,8.6,-3.5375,270,bottom
+F1,500mA,Fuse_1206_3216Metric,-8.4,-8.3,270,bottom
+J1,JST_SH_SM04B-SRSS-TB_1x04,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,-13.6,-7.35,180,bottom
+R1,5.1K,R_0603_1608Metric,7.8875,-8,270,bottom
+R2,5.1K,R_0603_1608Metric,6.3875,-8,270,bottom
+R3,1M,R_1206_3216Metric,6.3875,-4,270,bottom
+U1,SRV05-4,SOT-23-6,-7.7,-4.1,180,bottom

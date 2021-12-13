@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+"470n","C1","Capacitor_SMD:C_0805_2012Metric",""
+"500mA","F1","Fuse:Fuse_1206_3216Metric",""
+"Signature","G1","Ramon:Signature_Small",""
+"MountingHole","H1","crokto:M3_Via_Hole_NC",""
+"MountingHole_Pad","H2","crokto:M3_Via_Hole",""
+"JST_SH_SM04B-SRSS-TB_1x04","J1","crokto:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal",""
+"5.1K","R1,R2","Resistor_SMD:R_0603_1608Metric",""
+"1M","R3","Resistor_SMD:R_1206_3216Metric",""
+"SRV05-4","U1","Package_TO_SOT_SMD:SOT-23-6",""
+"USB_C_Receptacle_USB2.0","USB1","Type-C:USB_C_GCT_USB4085",""

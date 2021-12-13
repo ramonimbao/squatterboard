@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+470n,"C1,C2",Capacitor_SMD:C_0805_2012Metric,
+500mA,"F1,F2",Fuse:Fuse_1206_3216Metric,
+JST_SH_SM04B-SRSS-TB_1x04,"J1,J2",crokto:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,
+5.1K,"R1,R2,R4,R5",Resistor_SMD:R_0603_1608Metric,
+1M,"R3,R6",Resistor_SMD:R_1206_3216Metric,
+SRV05-4,"U1,U2",Package_TO_SOT_SMD:SOT-23-6,
+USB_C_Receptacle_USB2.0,"USB1,USB2",Type-C:USB_C_GCT_USB4085,
