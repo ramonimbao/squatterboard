@@ -1,3 +1,15 @@
+
+# Modified Squatterboard
+
+Changes:
+- ai03 standardcompatible (no more crossed data lines!)
+- Replaced USB connector with GCT USB4085-GF-A
+
+![new daughterboard](new-dboard.png)
+*Pretend that this is just a single board, and that the JST connector is there.*
+
+---
+
 # Squatterboard
 
 The primary purpose behind this daughterboard is to take up less space "vertically", in addition to using m3 screws (so it can use the same screws I use on the rest of the case) and less screws.
